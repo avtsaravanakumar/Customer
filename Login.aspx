@@ -54,6 +54,7 @@
                 <div class="text-center p-t-90" style="padding-top: 8px;">
                     <p>
                         <asp:Label ID="lblInfo" runat="server" Text=""></asp:Label>
+<asp:Label ID="lblInfo" runat="server" Text=""></asp:Label>
                     </p>
                 </div>
                 <div class="text-center p-t-90" style="padding-top: 8px;">
